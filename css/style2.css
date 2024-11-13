@@ -93,24 +93,5 @@ body {
     color: #f39c12;
 }
 
-@media (max-width: 768px) {
-    .nav-list {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-    }
 
-    .hamburger {
-        display: block;
-        cursor: pointer;
-    }
-
-    .nav-list.active {
-        display: flex;
-    }
-
-    .nav-list li {
-        margin: 10px 0;
-        text-align: center;
-    }
 }
