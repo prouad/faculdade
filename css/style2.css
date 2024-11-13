@@ -33,7 +33,7 @@ body {
     text-decoration: none;
 }
 
-.hamburger {
+.flamengo {
     width: 30px;
     height: 3px;
     background-color: white;
@@ -41,23 +41,23 @@ body {
     display: none;
 }
 
-.nav-list {
+.list {
     list-style-type: none;
     display: flex;
 }
 
-.nav-list li {
+.list li {
     margin-left: 20px;
 }
 
-.nav-list a {
+.list a {
     color: white;
     text-decoration: none;
     font-size: 1rem;
     transition: color 0.3s;
 }
 
-.nav-list a:hover {
+.list a:hover {
     color: #f39c12;
 }
 
