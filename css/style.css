@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #eaebff;
+    color: grey;
+}
+
+
+header {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.imagem-1 {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+#biografia {
+    background-color: #fa8b8b;
+}
+
+#carreira {
+    background-color: #ffe990;
+}
+
+#titulos {
+    background-color: #91d7ff;
+}
+
