@@ -86,8 +86,6 @@ body {
     transition: color 0.3s;
 }
 
-.tarefas a:hover, .atividade a:hover {
-    color: #ede9ec;
-}
+
 
 
