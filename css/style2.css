@@ -77,19 +77,19 @@ body {
 
 .tarefas h2, .atividade h2 {
     font-size: 1.2rem;
-    color: #333;
+    color: #292525;
     margin-bottom: 10px;
 }
 
 .tarefas a, .atividade a {
     font-size: 1rem;
-    color: #3498db;
+    color: #ff5353;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 .tarefas a:hover, .atividade a:hover {
-    color: #f39c12;
+    color: #ff5cd9;
 }
 
 
