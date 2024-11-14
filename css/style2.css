@@ -56,9 +56,7 @@ body {
     transition: color 0.3s;
 }
 
-.list a:hover {
-    color: #f39c12;
-}
+
 
 .aula {
     padding: 40px 20px;
