@@ -1,16 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #5c67e5; /* Tom levemente mais escuro para suavizar o fundo */
+    background-color: #5c67e5; 
     margin: 0;
     padding: 0;
-    color: #292525; /* Cor padrão para texto */
+    color: #292525; 
 }
 
 .header {
-    background-color: #1f1d1d; /* Fundo mais escuro para maior contraste */
+    background-color: #1f1d1d;
     color: white;
     padding: 20px 0;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra suave para destaque */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
 }
 
 .nav {
@@ -23,7 +23,7 @@ body {
 }
 
 .logo {
-    font-size: 1.8rem; /* Fonte maior para destacar a logo */
+    font-size: 1.8rem;
     font-weight: bold;
     color: white;
     text-decoration: none;
@@ -36,35 +36,34 @@ body {
 
 .tarefas, .atividade {
     background-color: #fff;
-    margin: 20px auto; /* Espaço maior para uma separação visual melhor */
+    margin: 20px auto; 
     padding: 25px;
-    border-radius: 12px; /* Bordas mais arredondadas */
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Sombra mais pronunciada */
+    border-radius: 12px; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
     width: 80%;
     max-width: 600px;
-    transition: transform 0.3s, box-shadow 0.3s; /* Efeito de hover */
+    transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .tarefas:hover, .atividade:hover {
-    transform: translateY(-5px); /* Elevação ao passar o mouse */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Sombra mais destacada */
-}
+    transform: translateY(-5px); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
 
 .tarefas h2, .atividade h2 {
-    font-size: 1.5rem; /* Fonte maior para títulos */
+    font-size: 1.5rem; 
     color: #292525;
     margin-bottom: 15px;
 }
 
 .tarefas a, .atividade a {
     font-size: 1rem;
-    color: #e63946; /* Vermelho mais vibrante */
+    color: #e63946; 
     text-decoration: none;
-    font-weight: bold; /* Destaque para os links */
-    transition: color 0.3s, text-shadow 0.3s; /* Transição suave */
+    font-weight: bold; 
+    transition: color 0.3s, text-shadow 0.3s; 
 }
 
 .tarefas a:hover, .atividade a:hover {
-    color: #d90429; /* Cor mais escura no hover */
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); /* Sombra no texto ao passar o mouse */
+    color: #d90429; 
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); 
 }
