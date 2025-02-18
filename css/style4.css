@@ -23,23 +23,32 @@ header {
 }
 
 
-.div-classe * {
-    margin: 20px;
-    padding: 20px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
+
 
 
 .biografia {
     background-color: #fa8b8b;
+  margin: 20px;
+    padding: 20px;
+
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .carreira {
     background-color: #ffe990;
+  margin: 20px;
+    padding: 20px;
+    
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .titulos {
     background-color: #91d7ff;
+  margin: 20px;
+    padding: 20px;
+  
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
