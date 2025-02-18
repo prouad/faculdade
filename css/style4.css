@@ -23,7 +23,7 @@ header {
 }
 
 
-.div {
+.div-classe * {
     margin: 20px;
     padding: 20px;
     background-color: white;
