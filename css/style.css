@@ -51,7 +51,8 @@ nav ul {
     flex-wrap: wrap;
 }
 
-
+nav a {
+    border-radius: 20px;
 
 
 main {
