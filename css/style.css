@@ -60,7 +60,9 @@ main {
     flex: 1;
 }
 
-
+nav a {
+    border-radius: 15px;
+}
 .hero {
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
     border-radius: 20px;
