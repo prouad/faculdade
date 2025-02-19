@@ -51,9 +51,7 @@ nav ul {
     flex-wrap: wrap;
 }
 
-nav a {
-    border-radius: 20px;
-}
+
 
 main {
     max-width: 1200px;
