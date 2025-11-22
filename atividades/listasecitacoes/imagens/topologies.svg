@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+  <rect width="200" height="120" rx="12" fill="#43A047"/>
+  <g fill="#fff" font-family="sans-serif">
+    <text x="18" y="55" font-size="16">Topologias</text>
+  </g>
+</svg>
